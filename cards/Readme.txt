@@ -1,0 +1,1 @@
+This is a very basic card game to add new cards on button click using HTML, CSS and JavaScript, later on you can move that cards and create your own boards or drawings. I will update this game to make it more interactive soon. Stay Tuned.
